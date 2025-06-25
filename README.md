@@ -3,7 +3,7 @@ Compilation de patchFR pour plusieurs mods
 
 Gére actuellement : 
 
-VUWR 
+VUWR (effets uniquement) 
 
 VUWR + LEO
 
