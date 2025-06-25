@@ -5,6 +5,8 @@ Gére actuellement :
 
 VUWR 
 
+VUWR + LEO
+
 More legendary effect
 
 légendary mod addition
